@@ -1,0 +1,5 @@
+{
+    "hosting": {
+        "public": "dist/paper-kit-2-angular"
+      }
+}
